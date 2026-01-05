@@ -1,4 +1,3 @@
-# ApolloSunshineGameFinder
 # Steam to Apollo Game Scanner
 
 Automatically scan Steam games and add them to Apollo/Sunshine for game streaming.
